@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.SplashScreen" parent="Theme.Sem5">
+        <item name="android:windowSplashScreenBackground">#0AC511</item>
+    </style>
+</resources>

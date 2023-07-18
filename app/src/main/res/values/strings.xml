@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sem 5</string>
+    <string name="welcome">Welcome</string>
+    <string name="i_image2">i=Image2</string>
+    <string name="image1">image!</string>
+    <string name="get_started_button">Get Started</string>
+    <string name="floatingDescription">SignUp</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="or_login_with">Or Login With</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Password</string>
+    <string name="email_test_com">Email@test.com</string>
+    <string name="email">Email</string>
+    <string name="hi_nplease_login">Hi,\nPlease Login</string>
+    <string name="hi_nplease_signUp">Hi,\nPlease SignUp</string>
+    <string name="Name">Name</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="MY_API_KEY">AIzaSyDunuXTdQzG3CkRrH7GHsF3jXYFb8P5br4</string>
+
+
+
+</resources>
